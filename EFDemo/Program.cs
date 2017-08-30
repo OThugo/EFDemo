@@ -10,7 +10,7 @@ namespace EFDemo
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("添加");
+            
         }
     }
 }
